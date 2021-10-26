@@ -1,6 +1,8 @@
-## Eintrag 02 - Dies ist die Ergänzung zum Thema Technische Grundlagen
+---
+title: "Eintrag 02 - Dies ist die Ergänzung zum Thema Technische Grundlagen"
+date: 2021-09-20
+---
 
-*20.09.2021*
 
 Nachdem ich nun im ersten Beitrag dieser Lerntagebuchserie über meine allgemeine Einstellung zum Modul BAIN berichtet habe, lege ich nun den Fokus auf den tatsächlichen Inhalt der ersten Vorlesung. Nach der Einführung und einer kurzen Orientation über das Thema des Moduls konnten wir bereits selbst etwas ausprobieren und interaktiv am Unterricht teilhaben, was etwas neues ist.
 
