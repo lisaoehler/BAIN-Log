@@ -1,3 +1,8 @@
+---
+title: "EIntrag 1"
+date: 2021-09-20
+---
+
 ## Eintrag 01 - Dies ist der Einleitungsartikel meiner neuen Blogserie
 
 *20.09.2021*
