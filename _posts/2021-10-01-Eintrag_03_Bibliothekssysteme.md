@@ -1,6 +1,9 @@
-## Eintrag 03 - Funktionen und Aufbau von Bibliothekssystemen (1/2)
+---
+title: "Eintrag 03 - Funktionen und Aufbau von Bibliothekssystemen (1/2)"
+date: 2021-10-01
+---
 
-*01.10.2021* 
+
 
 Nachdem wir in der letzen Vorlesung die Grundlagen für das Modul besprochen haben, geht es heute weiter mit der ersten Theorie. Damit wir alle starten können, mussten wir jedoch zuerst noch unser Git auf der virtuellen Maschine prüfen. 
 
