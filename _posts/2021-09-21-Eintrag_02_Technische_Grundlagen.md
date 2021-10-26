@@ -1,6 +1,6 @@
 ---
 title: "Eintrag 02 - Dies ist die Ergänzung zum Thema Technische Grundlagen"
-date: 2021-09-20
+date: 2021-09-21
 ---
 
 
