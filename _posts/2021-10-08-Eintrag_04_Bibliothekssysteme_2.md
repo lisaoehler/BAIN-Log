@@ -1,5 +1,5 @@
 ---
-title: "Eintrag 03 - Funktionen und Aufbau von Bibliothekssystemen (2/2)"
+title: "Eintrag 04 - Funktionen und Aufbau von Bibliothekssystemen (2/2)"
 date: 2021-10-08
 ---
 
