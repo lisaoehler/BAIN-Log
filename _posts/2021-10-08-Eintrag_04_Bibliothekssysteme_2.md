@@ -1,6 +1,8 @@
-## Eintrag 03 - Funktionen und Aufbau von Bibliothekssystemen (2/2)
+---
+title: "Eintrag 03 - Funktionen und Aufbau von Bibliothekssystemen (2/2)"
+date: 2021-10-08
+---
 
-*08.10.2021*
 
 Weiter geht es mit dem zweiten Teil meines Lerntagebucheintrages zu Funktionen und Aufbau von Bibliothekssystemen. Bei der letzten Vorlesung haben wir noch alle zusammen Koha eingerichtet - nun werden wir es voraussichtlich anwenden. Zudem werfen wir auch einen Blick auf den Markt von Bibliothekssystemen. 
 
