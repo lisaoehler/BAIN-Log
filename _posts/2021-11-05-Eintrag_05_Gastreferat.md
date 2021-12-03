@@ -1,5 +1,5 @@
 ---
-title: "Eintrag 05 - Repository-Software für Publikationen und Forschungsdaten"
+title: "Eintrag 05 - Funktion und Aufbau von Archivsystemen und Gastreferat"
 date: 2021-11-05
 ---
 
