@@ -1,5 +1,5 @@
 ---
-title: "Eintrag 13 - Linked Data»
+title: "Eintrag 13 - Linked Data"
 date: 2022-01-14
 ---
 
