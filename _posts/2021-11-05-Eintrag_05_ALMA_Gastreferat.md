@@ -3,7 +3,7 @@ title: "Eintrag 05 - Funktion und Aufbau von Archivsystemen und Gastreferat"
 date: 2021-11-05
 ---
 
-Einleitender Satz 
+
 
 ### Gastreferat zu ALMA
 Bei der heutigen Vorlesung gibt es ein Gastreferat von zwei Mitarbeitenden der FHNW, der grössten Fachhochschule der Schweiz. Dazu gehören 6 dezentral geführte Bibliotheken. Zuerst erklären sie etwas über das Swiss Library Service Platform (SLSP) Projekt, was ganz interessant ist. Als Nutzer von SLSP kennt man die ganzen Hintergründe nicht wirklich und es hat geholfen, hier etwas hinter die Kulissen sehen zu dürfen. Die Idee einer nationalen Plattform gab es bereits 2014, umgesetzt wurde die Plattform jedoch erst 2020. Für teilnehmende Bibliotheken gibt es diverse «Basics» und «Optional Services», welche teils kostenpflichtig sind. Die Unternehmung ist nicht gewinnorientiert. 
@@ -14,7 +14,7 @@ ALMA besteht aus 3 Zonen: der Gemeinschaftszone, der Netzwerkzone und dem Instit
 
 Zu Primo schreibe ich hier nicht, da ich hier kaum mehr nachgekommen bin. Was mir jedoch noch geblieben ist, ist dass «Swisscovery», also SLSP ein discovery-tool ist. Das bedeutet, dass es ähnlich wie eine Suchmaschine (z.B. Google) funktioniert und so in verschiedenen Katalogen und Quellen nach einem Medium gesucht werden kann. 
 
-Nun folgt eine Live-Demo mit folgenden Arbeitsabläufen: Aufbau und Grundlagen, E-Ressourcen, Konfiguration. Wie bereits erwähnt, steigen wir über einen Browser in ALMA ein. Wir landen auf einem Dashboard, wo man über die Suche in verschiedene andere Bereiche kommt. Zudem wird uns ein Kalender und Aufgaben angezeigt. Die Plattform scheint intuitiv zu sein, aber wie gesagt, für Leute ohne Bibliothekshintergrund ist es hier sehr schnell vorwärts gegangen. Alles in allem war es jedoch ein sehr interessanter Vortrag und so wurde einem das Thema noch mit Praxisbeispielen näher gebracht.  
+Nun folgt eine Live-Demo mit folgenden Arbeitsabläufen: Aufbau und Grundlagen, E-Ressourcen, Konfiguration. Wie bereits erwähnt, steigen wir über einen Browser in ALMA ein. Wir landen auf einem Dashboard, wo man über die Suche in verschiedene andere Bereiche kommt. Zudem wird uns ein Kalender und Aufgaben angezeigt. Die Plattform scheint intuitiv zu sein, aber wie gesagt, für Leute ohne Bibliothekshintergrund ist es hier sehr schnell vorwärts gegangen. Alles in allem war es jedoch ein sehr interessanter Vortrag und so wurde einem das Thema noch mit Praxisbeispielen näher gebracht. Zudem konnte ich nun in ein «echtes» Bibliothekssystem hineinschauen, was sehr hilfreich war.
 
 
 ### Funktion und Aufbau von Archivsystemen
