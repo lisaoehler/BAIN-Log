@@ -1,5 +1,5 @@
 ---
-title: "Eintrag 10 - Suchmaschinen und Discovery-Systeme"
+title: "Eintrag 10 - Metadaten modellieren und Schnittstellen nutzen (2/2)"
 date: 2021-12-17
 ---
 
