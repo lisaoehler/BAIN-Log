@@ -4,8 +4,6 @@ date: 2021-12-17
 ---
 
 
-
-### Allgemeines
 Die letzte Vorlesung vor Weihnachten - wir befinden uns im Endspurt. Ziel ist es, am Ende der Vorlesung sämtliche bis jetzt erstellten (und umgewandelten) Datensätze in VuFind einzuspeisen. 
 
 ### Nachtrag zu Metadaten modellieren und Schnittstellen nutzen
