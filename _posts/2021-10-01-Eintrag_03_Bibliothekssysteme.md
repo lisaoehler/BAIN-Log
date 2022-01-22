@@ -4,13 +4,12 @@ date: 2021-10-01
 ---
 
 
-
-Nachdem wir in der letzen Vorlesung die Grundlagen für das Modul besprochen haben, geht es heute weiter mit der ersten Theorie. Damit wir alle starten können, mussten wir jedoch zuerst noch unser Git auf der virtuellen Maschine prüfen. 
+Nachdem wir in der letzen Vorlesung gemeinsam die Grundlagen für das Modul erarbeitet haben, geht es heute weiter mit dem ersten Theorie-Teil des Moduls. Damit wir alle zusammen starten können, mussten wir jedoch zuerst noch unser Git (Versionierung) auf der virtuellen Maschine prüfen. 
 
 ### Von Gabeln und Klonen
-Als Einstiegsübung und zur Repetition der ersten Vorlesung befassten wir uns noch einmal mit GitHub und unserer Shell. Ziel der Übung war es, ein bereits vorhandenes Repository von GitHub auf das eigene Verzeichnis unserer virtuellen Maschine zu kopieren. Danach könnten wir lokal Änderungen an einem der Dokumente vornehmen und in einem zweiten Schritt die Änderungen wieder in das originale Repository, welches wir kopiert haben, zurücksenden. Hört sich in der Theorie einfach an, war in der Umsetzung jedoch bereits kompliziert. 
+Als Einstiegsübung und zur Repetition der ersten Vorlesung befassten wir uns noch einmal mit GitHub und unserer Shell. Dies war (in meinem Fall) auch bitter nötig. An GitHub kann ich mich nur noch dunkel aus einer Vorlesung in einem anderen Modul erinnern. Ziel der Übung war es, ein bereits vorhandenes Repository von GitHub auf das eigene Verzeichnis unserer virtuellen Maschine zu kopieren. Danach könnten wir lokal Änderungen an einem der Dokumente vornehmen und in einem zweiten Schritt die Änderungen wieder in das originale Repository, welches wir kopiert haben, zurücksenden. Hört sich in der Theorie einfach an, war in der Umsetzung jedoch bereits kompliziert. 
 
-Der Vorteil dieser Aktion ist, dass verschiedene Leute gemeinsam an einem Projekt arbeiten können, so dass es einen gemeinsamen Redaktionsworkflow gibt. Durch die Methode von GitHub ist so zudem die Versionierung der einzelnen Änderungen sichergestellt.
+Der Vorteil dieser Aktion ist, dass verschiedene Leute gemeinsam an einem Projekt arbeiten können (also eine Art Google-Docs für Programmierer?), so dass es einen gemeinsamen Redaktionsworkflow gibt. Durch die Methode von GitHub ist so zudem die Versionierung der einzelnen Änderungen sichergestellt. Dies ist wichtig, um vergangene Handlungen und Überlegungen, sofern sie notiert wurden, nachvollziehen zu können.
 
 Bei dieser Übung haben wir zudem eine Reihe neuer GitHub-Begriffe gelernt, hier einige Beispiele:
 «fork» um eine Kopie des Repositories zu erstellen
@@ -18,7 +17,7 @@ Bei dieser Übung haben wir zudem eine Reihe neuer GitHub-Begriffe gelernt, hier
 «commit» um Änderungen (mit Notiz) hochzuladen
 «pull-request» um die Übernahme der Änderungen anzufragen
 
-All dies haben wir über unsere Shell in der virtuellen Maschine gemacht. Dazu haben wir eine Reihe neuer Befehle kennengelernt, welche ich hier nicht nochmals wiedergeben werde. Es war eine tolle Übung, um uns mit der Shell und auch GitHub besser vertraut zu machen. Mir fällt es bereits einfacher, mich durch mein Repository zu navigieren und mich generell auf der Plattform zu bewegen.
+All dies haben wir über unsere Shell in der virtuellen Maschine gemacht. Dazu haben wir eine Reihe neuer Befehle kennengelernt, welche ich hier nicht nochmals wiedergeben werde. Es war eine tolle Übung, um uns mit der Shell und auch GitHub besser vertraut zu machen. Mir fällt es bereits einfacher, mich durch mein Repository zu navigieren und mich generell auf der Plattform zu bewegen (oder einfach nur Befehle in der Shell zu schreiben und mit der Virtuellen Maschine Copy-Pasten zu können).
 
 ### Theorieteil
 Nach der praktischen Übung geht es weiter mit dem ersten Theorieteil des Moduls. Wir widmen uns dem Thema Bibliothekssysteme. Dazu befassen wir uns zuerst mit dem Metadatenstandard MARC21 (für Bibliotheken) und danach mit der Installation des Koha-Programms für unsere virtuelle Maschine.
