@@ -4,7 +4,7 @@ date: 2021-10-08
 ---
 
 
-Weiter geht es mit dem zweiten Teil meines Lerntagebucheintrages zu Funktionen und Aufbau von Bibliothekssystemen. Bei der letzten Vorlesung haben wir noch alle zusammen Koha eingerichtet - nun werden wir es voraussichtlich anwenden. Zudem werfen wir auch einen Blick auf den Markt von Bibliothekssystemen. 
+Weiter geht es mit dem zweiten Teil meines Lerntagebucheintrages zu Funktionen und Aufbau von Bibliothekssystemen. Bei der letzten Vorlesung haben wir noch alle zusammen Koha eingerichtet - nun werden wir es voraussichtlich zum ersten mal anwenden. Zudem werfen wir auch einen Blick auf den Markt von Bibliothekssystemen. 
 
 ### Koha Kapitel 2 - Bibliografisches Framework (Theorie)
 Bei der Installation von Koha haben wir MARC21 als bibliografisches Framework gewählt. Ein bibliografisches Framework (übersetzt bedeutet dies soviel wie „Gerüst“ oder „Ordnungsrahmen“) wird auf der Webseite (https://zefanjas.de/koha-installation-schule-bibliografische-framework/) als Vorlage beschrieben, nach dieser wir Medien in Koha aufnehmen werden, also welche Daten wir genau aufnehmen werden. Ein Beispiel wäre der Titel des Mediums und den Autor. 
@@ -23,12 +23,11 @@ Nach den Medien widmen wir uns dem Benutzer. Diese Teilen wir in Kategorien auf 
 
 Was neu war, waren die normierten Werte. Diese werden beschrieben als fixe Werte, wie der Standort eines Mediums. Auf diese wurde jedoch nicht weiter eingegangen.
 
-Bei den Systemparametern ging es darum, Einstellungen wie Sprache und Formate, Ausleihe oder OPAC anzupassen. Nun wäre Koha soweit, um Bücher aufzunehmen und ausleihen zu können.  
+Bei den Systemparametern ging es darum, Einstellungen wie Sprache und Formate, Ausleihe oder OPAC anzupassen. Nun wäre Koha soweit, um Bücher aufzunehmen und ausleihen zu können. Dies wird hier nicht weiter dokumentiert. 
 
-(AUSGELASSEN -> Buch erfassen, Benutzer anlegen, Buch ausleihen etc. —> Erschlagen mit userinterface von Koha. So viele Eingabemöglichkeiten)
 
 ### Datenexport und Schnittstellen
-Im Kontext der Bibliotheken ist es durchaus sinnvoll, dass Bibliotheken Daten untereinander austauschen können. So fallen redundante Arbeiten weg und es kann Zeit gespart werden, die für andere Aufgaben verwendet werden kann. 
+Im Kontext der Bibliotheken ist es durchaus sinnvoll, dass Bibliotheken Daten untereinander austauschen können. So fallen redundante Arbeiten weg und es kann Zeit gespart werden, die für andere Aufgaben verwendet werden kann. Wie wir Daten (zB aus Koha heraus) exportieren und in ein anderes System importieren, lernen wir im späteren Verlauf des Moduls kennen.
 
 ### Marktüberblick Bibliothekssysteme
 Zum Schluss der Vorlesung haben wir uns noch einen Überblick der verfügbaren Bibliothekssysteme verschafft. Zu meiner Überraschung gibt es hier sehr viele verschiedene Systeme, die alle unterschiedliche Vor- und Nachteile haben und unterschiedliche Nutzergruppen ansprechen. Weiter sind wir noch kurz auf Alma und Aleph eingegangen. Da ich noch nie mit Bibliothekssystemen zu tun hatte wäre hier noch ein kleiner Abstecher auf diese Systeme toll gewesen (beispielsweise mit Printscreens zeigen oder ähnlich), da ich mir sonst nicht wirklich etwas darunter vorstellen konnte.
