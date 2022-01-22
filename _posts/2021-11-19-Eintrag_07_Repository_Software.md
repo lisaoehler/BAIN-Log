@@ -3,7 +3,7 @@ title: "Eintrag 07 - Repository-Software für Publikationen und Forschungsdaten"
 date: 2021-11-19
 ---
 
-Einleitender Satz 
+Wir haben uns in den vergangenen Vorlesungen nun ausführlich mit den Funktionen und dem Aufbau von Archiv- und Bibliothekssystemen beschäftig. Weiter geht es nun mit Repository-Software für Publikationen und Forschungsdaten.
 
 ### Begriffe Web und Cloud (Begriffsklärung)
 Web-basierte Systeme können ausschliesslich über einen Web-Browser bedient werden (wie Koha), wohingegen cloud-basierte Systeme zwar auch über einen Web-Browser bedient werden können, das System selbst jedoch nicht bei den Benutzern selbst auf einem Server liegt. Das entsprechende Programm ist auf dem Server des Herstellers abgelegt und die Kunden (Nutzer) greifen alle auf diesen zu. Die Nutzenden sehen bei sich aber ihre eigene Umgebung und haben ihre eigenen spezifischen Einstellungen, so dass man eigentlich nicht merken sollte, dass das Programm nicht auf dem eigenen Server abgelegt ist. 
